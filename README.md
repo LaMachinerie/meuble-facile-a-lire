@@ -17,3 +17,7 @@ Concernant les spécificités de ce meuble “Facile à lire”, c’est un meub
 ![alt text](https://github.com/LaMachinerie/Meuble-Facile-a-Lire/blob/main/Image/1.2.png)
 ![alt text](https://github.com/LaMachinerie/Meuble-Facile-a-Lire/blob/main/Image/1.3.png)
 ![alt text](https://github.com/LaMachinerie/Meuble-Facile-a-Lire/blob/main/Image/1.4.png)
+
+Projet sous license CC-BY-NC-SA
+
+![alt text](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
