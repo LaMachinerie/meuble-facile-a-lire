@@ -18,6 +18,6 @@ Concernant les spécificités de ce meuble “Facile à lire”, c’est un meub
 ![alt text](https://github.com/LaMachinerie/Meuble-Facile-a-Lire/blob/main/Image/1.3.png)
 ![alt text](https://github.com/LaMachinerie/Meuble-Facile-a-Lire/blob/main/Image/1.4.png)
 
-Projet sous license CC-BY-NC-SA
+Cette œuvre est mise à disposition sous licence Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International. Pour voir une copie de cette licence, visitez http://creativecommons.org/licenses/by-nc-sa/4.0/ ou écrivez à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ![alt text](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
